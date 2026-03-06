@@ -1,8 +1,3 @@
-Here is a **ready-to-copy README.md file** for your project.
-Just create a file named **`README.md`** in your project folder and **paste this entire content**.
-
-I also added the **Screenshots folder reference** exactly as you said.
-
 # 🧰 Multi-Utility Toolkit (Python)
 
 A **Python-based Modular Toolkit** that demonstrates the use of **built-in modules, custom modules, and packages**.
@@ -120,19 +115,7 @@ Choose an option:
 Enter your choice:
 ```
 
----
-
-## 📸 Screenshots
-
-### 🖥️ Program Menu
-
-![Program Menu](Screenshots/screenshot1.png)
-
-### ⚙️ Toolkit Operations
-
-![Toolkit Operations](Screenshots/screenshot2.png)
-
----
+--
 
 ## 🧑‍💻 Technologies Used
 
@@ -194,24 +177,3 @@ A **small business owner** can use this toolkit to:
 Python Modular & Package Project
 
 ---
-
-⭐ If you like this project, feel free to give it a star!
-
----
-
-✅ When you add screenshots, just place them inside:
-
-```
-Screenshots/
-```
-
-and name them:
-
-```
-screenshot1.png
-screenshot2.png
-```
-
----
-
-If you want, I can also give you a **much more visually stunning README (GitHub style with badges, icons, and centered headers)** that looks **10× more professional**.
